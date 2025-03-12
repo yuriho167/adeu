@@ -1,0 +1,5 @@
+[project]
+name = "adeu"
+version = "0.1.0"
+description = "docx ↔ LLM translator. Projects .docx office files to Markdown for editing. Projects edits back to OOXML as tracked changes (redlines). Python and Node.js implementations."
+requires-python = ">=3.10"
