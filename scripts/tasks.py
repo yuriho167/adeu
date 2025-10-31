@@ -19,3 +19,4 @@ if __name__ == "__main__":
 # clarify the control flow
 # handle the edge case from the last release
 # clarify the control flow
+# drop an unused branch
